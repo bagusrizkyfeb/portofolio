@@ -482,9 +482,7 @@ a{
 }
 
 .footer-wrapper{
-    background: #42424210;
-    backdrop-filter: blur(12px);
-    -webkit-backdrop-filter: blur(12px);
+    background: #44444410;
     padding:40px 0;
 }
 
