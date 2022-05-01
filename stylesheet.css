@@ -484,14 +484,15 @@ a{
 .footer-wrapper{
     background: #44444410;
     padding:40px 0;
+    text-align: center;
 }
 
 .footer-wrapper p{
     color: black;
     text-align: center;
     font-size: 13px;
+    padding-top: 10px;
 }
-
 
 
 
