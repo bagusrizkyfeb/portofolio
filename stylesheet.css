@@ -348,9 +348,7 @@ a{
 
 
   .bagian{
-      background: #42424210;
-      backdrop-filter: blur(12px);
-      -webkit-backdrop-filter: blur(12px);
+      background:rgba(82, 82, 82, 0.07);
       flex: 100%;
       margin-bottom: 30px;
       border-radius: 20px;
@@ -457,25 +455,6 @@ a{
     opacity: 0;
 }
 
-.about.active{
-    animation-name: movein;
-    animation-duration: 2s;
-    opacity: 1;
-}
-
-@keyframes movein {
-    0% {
-        opacity: 0;
-        transform: translateY(100px);
-    }
-
-    100% {
-        opacity: 1;
-        transform: translate(0px);
-
-    }
-}
-
 
 .work{
     background-color: #EFF7F9;
@@ -493,7 +472,6 @@ a{
     font-size: 13px;
     padding-top: 10px;
 }
-
 
 
 /*  Mobile Menu */
