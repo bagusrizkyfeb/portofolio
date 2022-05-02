@@ -366,7 +366,7 @@ a{
 
 .bagian p{
     font-size: 15px;
-    color:rgb(51, 51, 51);
+    color: rgb(92, 92, 92);
     text-align: left;
 }
 
@@ -452,7 +452,6 @@ a{
 .about{
     background: url('asset/background_about.png');
     background-size: cover;
-    opacity: 0;
 }
 
 
