@@ -358,10 +358,20 @@ a{
 
 
   .bagian:hover{
-      background-color: #b4e4ff;
-    transform: scale(1.03);
+      background-color: #0253cc;
+    transform: scale(1.04);
     transition: 0.7s;
   }
+
+  .bagian:hover h3{
+      color: white;
+  }
+
+  
+  .bagian:hover p{
+    color: rgb(218, 218, 218);
+}
+
 
 
 .bagian:hover img{
@@ -394,6 +404,7 @@ a{
     font-size: 15px;
     color: rgb(92, 92, 92);
     text-align: left;
+    font-weight: 100;
 }
 
 
