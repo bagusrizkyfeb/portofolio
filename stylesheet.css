@@ -48,7 +48,7 @@ a{
 
 .top-wrapper {
     background:url('asset/background.png');
-    padding: 100px 0;
+    padding: 120px 0;
     text-align: center;
     background-size: cover;
     background-position: center;
@@ -703,6 +703,7 @@ cursor: pointer;
 /*  Dekstop   */
 
 @media all and (min-width: 992px){
+
 
     .top-wrapper h1 {
         font-size: 60px;
