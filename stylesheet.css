@@ -95,6 +95,7 @@ a{
 }
 
 .top-wrapper h1 {
+    font-family: IBM Plex Serif, serif;
     padding: 15px 0;
     animation-name: moveInBottom;
     animation-duration: 2s;
@@ -214,12 +215,13 @@ a{
 
 
 .item1 h1{
+    font-family: IBM Plex Serif, serif;
     text-align: center;
     padding-bottom: 20px;
 }
 
 .item1 p{
-    text-align: justify;
+    text-align: left;
     color: rgb(92, 92, 92);
 }
 
@@ -385,6 +387,7 @@ a{
 
 .title-skill{
       padding-bottom: 50px;
+      font-family:IBM Plex Serif, serif; 
   }
 
 .bagian h3{
@@ -656,9 +659,16 @@ cursor: pointer;
     }
     .gambar{
         width:100%;
-        height: auto;
-        
+        height: auto;   
     }
+
+
+
+
+
+
+
+
 
     .gambar_projek{
         width:100%;
@@ -812,8 +822,8 @@ cursor: pointer;
     }
 
     .gambar{
-       width: 564px;
-       height: 453px;
+       width: 570px;
+       height: 550px;
     }
 
     .item1{
