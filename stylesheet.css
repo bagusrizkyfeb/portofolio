@@ -661,14 +661,6 @@ cursor: pointer;
         height: auto;   
     }
 
-
-
-
-
-
-
-
-
     .gambar_projek{
         width:100%;
         height: auto;
@@ -821,12 +813,16 @@ cursor: pointer;
     }
 
     .gambar{
-       width: 570px;
-       height: 550px;
+        width: 326px;
+       height: 440px;
     }
 
     .item1{
         padding:60px 0;
+    }
+
+    .item2{
+        padding-left:200px;
     }
     
     .skill-wrapper{
