@@ -229,10 +229,6 @@ a{
     height: auto;
 }
 
-.gambar_projek{
-    width:100%;
-    height: auto;
-}
 
 .sosmed{
     padding-bottom: 20px;
@@ -813,8 +809,8 @@ cursor: pointer;
     }
 
     .gambar{
-        width: 326px;
-       height: 440px;
+        width: 346px;
+       height: 350px;
     }
 
     .item1{
@@ -822,7 +818,7 @@ cursor: pointer;
     }
 
     .item2{
-        padding-left:200px;
+        padding-left:150px;
     }
     
     .skill-wrapper{
