@@ -813,8 +813,8 @@ cursor: pointer;
     }
 
     .gambar{
-        width: 325px;
-       height: 440px;
+        width: 370px;
+       height: 320px;
     }
 
     .item1{
@@ -822,7 +822,7 @@ cursor: pointer;
     }
 
     .item2{
-        padding-left:200px;
+        padding-left:100px;
     }
     
     .skill-wrapper{
